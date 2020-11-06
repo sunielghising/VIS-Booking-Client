@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>104426058884-b93r9nuaj0nk8ridvb1n7i378p65vgv1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.104426058884-b93r9nuaj0nk8ridvb1n7i378p65vgv1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBOpI6U6ZC_4NqYn0mbl3Ob16yri2fCpHE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>104426058884</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.sunil.visBooking</string>
+	<key>PROJECT_ID</key>
+	<string>vis-booking-cea88</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vis-booking-cea88.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:104426058884:ios:98da6c6139f9c9dad7fed1</string>
+	<key>DATABASE_URL</key>
+	<string>https://vis-booking-cea88.firebaseio.com</string>
+</dict>
+</plist>

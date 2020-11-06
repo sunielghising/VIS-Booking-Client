@@ -1,0 +1,15 @@
+{
+  "vis": "在一世小号",
+  "email": "输入你的电子邮箱",
+  "password": "输入密码",
+  "login": "登录",
+  "login_google": "用Google登录",
+  "login_facebook": "用Facebook登录",
+  "login_email": "用电子邮件登录",
+  "login_anonymous": "匿名",
+  "signIn": "登入",
+  "register": "需要一个账户？寄存器",
+  "create": "创建一个帐户",
+  "already": "已经有帐号了？登入",
+  "titleRegister": "寄存器"
+}

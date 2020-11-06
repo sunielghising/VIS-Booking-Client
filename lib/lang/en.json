@@ -1,0 +1,15 @@
+{
+  "vis": "VIS",
+  "email": "Enter your email",
+  "password": "Enter your password",
+  "login": "Login",
+  "login_google": "Sign in with Google",
+  "login_facebook": "Sign in with Facebook",
+  "login_email": "Sign in with Email",
+  "login_anonymous": "Go anonymous",
+  "signIn": "Sign In",
+  "register": "Need an account? Register",
+  "create": "Create an account",
+  "already": "Already have an account? Sign in",
+  "titleRegister": "Register"
+}

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "104426058884",
+    "firebase_url": "https://vis-booking-cea88.firebaseio.com",
+    "project_id": "vis-booking-cea88",
+    "storage_bucket": "vis-booking-cea88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104426058884:android:f01e8fa6631bbb74d7fed1",
+        "android_client_info": {
+          "package_name": "co.sunil.vis_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104426058884-5ac2g1a2o1qlr7aoojr5jlbdj8mkoej8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.sunil.vis_booking",
+            "certificate_hash": "ef665e546db65f4af5196dc786694b5de89d12f1"
+          }
+        },
+        {
+          "client_id": "104426058884-vmnues5m4l4kfqg09lrrdffq99qg29hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1RQQlSrklQhuRfaeqJrqudv2W2Haa68Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104426058884-vmnues5m4l4kfqg09lrrdffq99qg29hh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104426058884-b93r9nuaj0nk8ridvb1n7i378p65vgv1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.sunil.visBooking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
