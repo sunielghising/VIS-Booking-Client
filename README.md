@@ -1,4 +1,4 @@
-# visbooking_app
+## VIS Booking Client
 
 A new Flutter application.
 
