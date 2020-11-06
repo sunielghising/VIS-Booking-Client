@@ -6,6 +6,11 @@ It uses Agora rtc-engine for video conferencing.
 A Firebase is used as cloud service as well as authentication purpose.
 Localization is used to switch language between english and chinese.
 
+<img width="423" alt="Screen Shot 2020-10-08 at 6 21 43 am" src="https://user-images.githubusercontent.com/52387595/98325745-a0f15400-2043-11eb-9a6d-51be689c2e77.PNG">
+![Image 28-10-20 at 5 08 pm](https://user-images.githubusercontent.com/52387595/98325764-ab135280-2043-11eb-9179-bdad5a6a958f.JPG)
+<img width="475" alt="Screen Shot 2020-10-09 at 2 16 26 pm" src="https://user-images.githubusercontent.com/52387595/98325772-af3f7000-2043-11eb-8c07-9c013c258a54.PNG">
+<img width="467" alt="Screen Shot 2020-10-08 at 6 22 51 am" src="https://user-images.githubusercontent.com/52387595/98325784-b797ab00-2043-11eb-9610-fbc1ee98d2e2.PNG">
+
 
 ## Getting Started
 
