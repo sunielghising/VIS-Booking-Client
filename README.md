@@ -1,6 +1,11 @@
 ## VIS Booking Client
 
-A new Flutter application.
+A client side Flutter application to book an vet appointment and join the meetings throught the app.
+The app also has features Stripe payment for in-app payment.
+It uses Agora rtc-engine for video conferencing.
+A Firebase is used as cloud service as well as authentication purpose.
+Localization is used to switch language between english and chinese.
+
 
 ## Getting Started
 
